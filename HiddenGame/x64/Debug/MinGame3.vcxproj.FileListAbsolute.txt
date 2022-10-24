@@ -1,0 +1,3 @@
+D:\Hidden\x64\Debug\MinGame3.exe
+F:\Hidden\x64\Debug\MinGame3.exe
+D:\Hidden\x64\Debug\MinGame3.pdb

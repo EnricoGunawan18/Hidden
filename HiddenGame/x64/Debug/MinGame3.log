@@ -1,0 +1,4 @@
+﻿  score.cpp
+D:\Hidden\packages\DxLib.vc140.3.2.1.3\build\native\include\DxFunctionWin.h(266,1): warning C4010: single-line comment contains line-continuation character
+D:\Hidden\score.cpp(91): warning C4715: 'score_disp': not all control paths return a value
+  MinGame3.vcxproj -> D:\Hidden\x64\Debug\MinGame3.exe
